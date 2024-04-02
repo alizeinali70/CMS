@@ -8,6 +8,6 @@ namespace CMS.Utilities
 {
     public interface IDbInitializer
     {
-       void Initialize();
+      public void Initialize();
     }
 }
